@@ -224,8 +224,8 @@ def get_user_menu(context):
     admin_only = [
         {
             "type": "link",
-            "href": "/admin/",
-            "label": "Admin"
+            "href": "/gestion/",
+            "label": "Admin<<<"
         },
         {
             "type": "link",
